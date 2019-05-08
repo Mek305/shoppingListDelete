@@ -1,0 +1,57 @@
+ *{
+  box-sizing: border-box;
+
+  }
+
+html{
+-webkit-font-smoothing: antialiased;
+text-rendering: optimizeLegibility;
+}
+
+body{
+  background-color: red;
+
+  background-repeat: repeat;
+}
+
+
+
+img {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  
+ 
+}
+h1, h2, p{
+  color: aqua;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  
+}
+
+
+.shoppinglistitem[type='text']{
+  width: 20em;
+  height: 3em;
+ 
+  
+  ;
+
+}
+
+button[type='submit']{
+
+  background-color: yellowgreen;
+  width: 6em;
+  height: 2.3em;
+  
+
+  
+  }
+ .container{
+   
+    display: block;
+    margin: 0 auto;
+}
